@@ -1,5 +1,5 @@
 # Digital Playground
-website that consolidates resources to help individuals transition to the digital age
+website that consolidates resources to help individuals transition to the digital age and a reason to learn some code
 
 ## Useful resources referenced as I chipped away
 * Understanding branches - https://stackoverflow.blog/2021/04/05/a-look-under-the-hood-how-branches-work-in-git/
